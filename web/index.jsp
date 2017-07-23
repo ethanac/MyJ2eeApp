@@ -11,6 +11,6 @@
     <title>MyApp</title>
   </head>
   <body>
-  Hello, World!
+  Hello, World! Let's Go!
   </body>
 </html>
